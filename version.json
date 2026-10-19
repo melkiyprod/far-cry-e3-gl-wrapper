@@ -1,5 +1,5 @@
 {
-    "version": "0.0.8.7",
-    "downloadUrl": "https://archive.org/details/far-cry-e3-2003-demo_fixed",
-    "notes": "matrix stack fix in the editor"
+    "version": "1.0",
+    "downloadUrl": "https://archive.org/details/far-cry-e3-opengl-fix",
+    "notes": "First release version"
 }
